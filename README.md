@@ -1,13 +1,3 @@
 ## Hi there 👋
 
 I’m an aspiring software developer who builds mainly with C++ and C#, with a strong focus on the .NET ecosystem including Windows Forms, ADO.NET, ASP.NET, SQL Server, Web APIs, and Entity Framework. I’ve worked on several learning projects such as a bank management system, driver license management app, and a pizza ordering system, which helped me build a solid understanding of real-world application architecture and database-driven systems. I enjoy working with Linux and the command line, and I use Arch Linux as my daily system. I’m a big fan of CLI tools and prefer understanding how things work under the hood rather than relying on abstractions. I’m deeply curious about technology in general and like to learn things manually and thoroughly, focusing on fundamentals instead of shortcuts. Currently, I’m expanding my skills by learning HTML, CSS, and JavaScript to move toward broader web and full-stack development. I believe real growth comes from patience, experimentation, and embracing the struggle that comes with learning complex systems.
-
-- 📫Official bashichda channels:
-      - Discord: ichda99;
-      - Email: youssefichda99@gmail.com
-      - Youtube: https://www.youtube.com/@bashichda
-  
-- 😄 Interests:
-      - linux (hence, bashichda)
-      - terminals and terminal tools
-      - backend development
